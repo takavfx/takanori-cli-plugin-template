@@ -1,0 +1,9 @@
+{
+  "usecase_name": "sample",
+  "project_slug": "takanori-cli-{{ cookiecutter.usecase_name }}",
+  "module_name": "{{ cookiecutter.project_slug.replace('-', '_') }}",
+  "author": "Takanroi Kishikawa",
+  "author_email": "",
+  "version": "1.0.0",
+  "license": "MIT"
+}
